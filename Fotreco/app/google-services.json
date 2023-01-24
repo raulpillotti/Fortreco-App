@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458352881433",
+    "project_id": "fotreco",
+    "storage_bucket": "fotreco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458352881433:android:b53d9e9f34322f9e08df88",
+        "android_client_info": {
+          "package_name": "com.example.fotreco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458352881433-dm8m69d8p1n0ebc9t2ir707rkg74f0fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqSa2C8XIKM0IuJ_1k2CjoJLfrkOLv-0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458352881433-dm8m69d8p1n0ebc9t2ir707rkg74f0fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
